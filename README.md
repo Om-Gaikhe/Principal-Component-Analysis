@@ -1,6 +1,6 @@
 # Project Overview: Principal Component Analysis on Automobile Dataset
 
-The provided Python code snippet performs an exploratory and explanatory data analysis employing dimensionality reduction techniques, namely, Principal Component Analysis (PCA), on a pre-cleaned dataset related to automobiles. The code contains a systematic flow of processes encompassing data importation, preprocessing, PCA application, explained variance visualization, and relationship mapping with target variable leveraging Mutual Information scores. 
+The project contains a systematic flow of processes encompassing data importation, preprocessing, PCA application, explained variance visualization, and relationship mapping with target variable leveraging Mutual Information scores. 
 
 ## Imported Libraries
 The code incorporates the use of several sophisticated Python libraries for data analysis and manipulation:
